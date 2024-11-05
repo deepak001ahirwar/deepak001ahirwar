@@ -7,7 +7,7 @@ latest industry trends, and committed to continuously improving my skills</h6>
 
 
 
-- 🌱 I’m currently learning  **Devops  / ML / Rust**
+- 🌱 I’m currently learning  **Devops  / CI/CD / DSA**
 
 - 💬 Ask me about  **Microservices / Redis / JAVA / SpringBoot**
 
